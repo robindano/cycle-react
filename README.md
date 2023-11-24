@@ -2,7 +2,7 @@
 
 Cycle is a community building app where neighbors can exchange goods for free.
 
-This is the frontend, built with React. The backend uses a MYSQL database, and an [API](https://github.com/joeylking/cycle_api) built with Django.
+This is the frontend, built with React. The backend uses a MYSQL database, and an [API](https://github.com/robindano/cycle-api-django) built with Django.
 
 ## Project Features
 
